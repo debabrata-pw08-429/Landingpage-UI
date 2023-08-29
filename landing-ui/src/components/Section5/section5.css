@@ -1,0 +1,50 @@
+.container {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.column-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin: 50px auto;
+}
+
+.small-image {
+  display: flex;
+  gap: 15px;
+}
+
+.partner-text {
+  color: #777;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  gap: 15px;
+}
+.image-grid > img {
+  width: 250px;
+}
+
+.partner-image {
+  width: 100%;
+}
+
+.small-image-container {
+  width: 25%;
+  background: #b1b1b1;
+  text-align: center;
+  padding: 15px;
+  border-radius: 30px;
+}
+
+.small-image {
+  width: 100%;
+}

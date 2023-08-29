@@ -5,7 +5,7 @@
 }
 
 .section1 > img:nth-child(1) {
-  width: "100%";
+  width: 1450px;
   object-fit: cover;
 }
 
