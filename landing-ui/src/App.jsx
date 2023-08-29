@@ -1,5 +1,5 @@
 import "./App.css";
-import LandingPage from "./pages/landingPage";
+import LandingPage from "./pages/LandingPage";
 
 function App() {
   return (
