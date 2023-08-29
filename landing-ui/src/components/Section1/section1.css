@@ -1,8 +1,24 @@
-section {
-  display: flex;
+.section1 {
+  margin-top: 150px;
+  position: relative;
+  z-index: -10;
+}
+
+.section1 > img:nth-child(1) {
+  width: "100%";
+  object-fit: cover;
+}
+
+.section1 > img:nth-child(2) {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  object-fit: cover;
 }
 
 .frame {
+  width: 100%;
   height: 851px;
   overflow: hidden;
   position: relative;

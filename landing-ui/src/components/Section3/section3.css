@@ -1,4 +1,5 @@
 .section3 {
+  display: flex;
   border-radius: 100px;
   background: #171e27;
   padding: 3rem 4rem;
