@@ -1,0 +1,95 @@
+.section6 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 1rem 4rem;
+  margin: 5rem;
+  flex-shrink: 0;
+  border-radius: 35px;
+  background: linear-gradient(180deg, #fec175 0%, #fb9077 100%);
+}
+
+.section6_headings > h3 {
+  color: #000;
+
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35px;
+}
+
+.section6_headings > p {
+  color: #474747;
+
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 35px;
+  margin-top: -15px;
+}
+
+.section6 .input_fields {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+input {
+  border-radius: 12px;
+  background: #fff;
+  padding: 8px 16px;
+  border: none;
+  margin-top: 5px;
+  color: #8b8b8b;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 35px;
+}
+
+.section6_inputs {
+  display: flex;
+  align-items: flex-start;
+  gap: 120px;
+}
+
+.section6_card {
+  width: 25%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-radius: 25px;
+  background: #fff;
+  padding: 1rem;
+}
+
+.section6_box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.section6_submit {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -30px;
+  margin-right: 90px;
+  margin-bottom: 50px;
+}
+
+.section6_submit > button {
+  width: 137px;
+  height: 57px;
+  flex-shrink: 0;
+  border-radius: 35px;
+  background: linear-gradient(99deg, #171e27 0%, #171e27 100%);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  color: #fff;
+  cursor: pointer;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}

@@ -1,0 +1,49 @@
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  background-color: #171e27;
+  position: fixed;
+}
+
+.navlogo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.navlogo > img {
+  width: 318px;
+  height: 91px;
+  flex-shrink: 0;
+}
+.navlogo > img ~ div {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  cursor: pointer;
+  width: 178px;
+  height: 57px;
+  flex-shrink: 0;
+  border-radius: 35px;
+  background-color: #fdecec;
+  color: #f05656;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+  font-size: 30px;
+  color: white;
+}
+
+.links > .links_each {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

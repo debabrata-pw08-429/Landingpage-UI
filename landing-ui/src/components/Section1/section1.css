@@ -1,0 +1,244 @@
+section {
+  display: flex;
+}
+
+.frame {
+  height: 851px;
+  overflow: hidden;
+  position: relative;
+  width: 1921px;
+  z-index: -10;
+}
+
+.frame .overlap {
+  background: linear-gradient(
+    180deg,
+    rgb(254, 200, 38) 0%,
+    rgb(243, 166, 29) 100%
+  );
+  border-radius: 35px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 57px;
+  left: 999px;
+  position: absolute;
+  top: 339px;
+  width: 178px;
+}
+
+.frame .text-wrapper {
+  color: #171e27;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.frame .div {
+  color: #171e27;
+  font-family: "Inter", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 999px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 96px;
+  width: 685px;
+}
+
+.frame .overlap-group {
+  height: 750px;
+  left: 408px;
+  position: absolute;
+  top: 469px;
+  width: 1041px;
+}
+
+.frame .rectangle {
+  background: linear-gradient(
+    180deg,
+    rgb(116, 219, 150) 0%,
+    rgb(29, 245, 244) 99.91%
+  );
+  border-radius: 50px;
+  height: 561px;
+  left: 63px;
+  position: absolute;
+  top: 110px;
+  transform: rotate(-14.41deg);
+  width: 413px;
+}
+
+.frame .rectangle-2 {
+  background: linear-gradient(
+    180deg,
+    rgb(192, 206, 237) 0%,
+    rgb(205, 190.76, 210.55) 7.81%,
+    rgb(209, 0, 206) 31.77%,
+    rgb(252, 88, 61) 44.27%,
+    rgb(229.3, 203.53, 209.26) 71.35%,
+    rgb(253, 216, 208) 78.12%,
+    rgb(250, 138, 119) 99.91%
+  );
+  border-radius: 50px;
+  height: 561px;
+  left: 278px;
+  position: absolute;
+  top: 10px;
+  transform: rotate(2.74deg);
+  width: 413px;
+}
+
+.frame .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 292px;
+  transform: rotate(-12.66deg);
+}
+
+.frame .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 323px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 163px;
+  transform: rotate(2.19deg);
+}
+
+.frame .rectangle-3 {
+  background: linear-gradient(
+    180deg,
+    rgb(254, 201, 116) 0%,
+    rgb(250, 138, 119) 99.91%
+  );
+  border-radius: 50px;
+  height: 561px;
+  left: 529px;
+  position: absolute;
+  top: 128px;
+  transform: rotate(25.2deg);
+  width: 413px;
+}
+
+.frame .text-wrapper-4 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 635px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 276px;
+  transform: rotate(23.24deg);
+}
+
+.frame .element {
+  height: 112px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 96px;
+}
+
+.frame .element-ebbce-c-b {
+  height: 118px;
+  left: 661px;
+  object-fit: cover;
+  position: absolute;
+  top: 129px;
+  width: 107px;
+}
+
+.frame .img {
+  height: 100px;
+  left: 324px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 79px;
+}
+
+.frame .vector-wrapper {
+  background-color: #767d84;
+  border-radius: 15px;
+  height: 30px;
+  left: 1206px;
+  position: absolute;
+  top: 274px;
+  width: 30px;
+}
+
+.frame .vector {
+  height: 12px;
+  left: 4px;
+  position: absolute;
+  top: 11px;
+  width: 22px;
+}
+
+.frame .text-wrapper-5 {
+  color: #171e27;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 999px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 270px;
+}
+
+.frame .elevate-your {
+  color: transparent;
+  font-family: "Gilroy-Medium", Helvetica;
+  font-size: 42px;
+  font-weight: 500;
+  left: 237px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 245px;
+  width: 716px;
+}
+
+.frame .span {
+  color: #171e27;
+}
+
+.frame .text-wrapper-6 {
+  color: #28b570;
+}
+
+.frame .INVESTMENT-STACK-for {
+  color: transparent;
+  font-family: "Gilroy-Bold", Helvetica;
+  font-size: 60px;
+  font-weight: 700;
+  left: 237px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 73px;
+  width: 569px;
+}
+
+.frame .text-wrapper-7 {
+  color: #f3a61d;
+}
