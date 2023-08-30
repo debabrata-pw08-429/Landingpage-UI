@@ -1,12 +1,12 @@
 import "./navbar.css";
-import logo from "../../assets/InvestPe.png";
-import ellipse from "../../assets/Ellipse.svg";
-import downArrow from "../../assets/down-arrow.svg";
+import logo from "../../../assets/InvestPe.png";
+import ellipse from "../../../assets/Ellipse.svg";
+import downArrow from "../../../assets/down-arrow.svg";
 
 const Navbar = () => {
   return (
-    <nav>
-      <div className="navlogo">
+    <nav className="nav-landingpage">
+      <div className="navlogo" onClick={() => (window.location = "/")}>
         <img src={logo} alt="logo" />
         <div>
           <div> Gateway </div>

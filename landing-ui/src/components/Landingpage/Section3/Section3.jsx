@@ -1,5 +1,5 @@
 import "./section3.css";
-import hand_image from "../../assets/hand_image.png";
+import hand_image from "../../../assets/hand_image.png";
 
 const Section3 = () => {
   return (

@@ -1,0 +1,31 @@
+.section1-container {
+  background: #171e27;
+}
+
+.heading {
+  color: #fff;
+  text-align: center;
+  font-family: Gilroy;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 550px;
+}
+
+.subheading {
+  text-align: center;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  color: #fff;
+}
+
+.image-container {
+  text-align: center;
+}
+
+.spacing {
+  height: 2vh;
+}

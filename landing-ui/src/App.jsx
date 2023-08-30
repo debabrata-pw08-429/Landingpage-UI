@@ -1,10 +1,10 @@
 import "./App.css";
-import LandingPage from "./pages/LandingPage";
+import AllRoutes from "./pages/AllRoutes";
 
 function App() {
   return (
     <>
-      <LandingPage />
+      <AllRoutes />
     </>
   );
 }

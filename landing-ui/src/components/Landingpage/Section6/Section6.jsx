@@ -1,9 +1,9 @@
 import "./section6.css";
 
-import Mutual from "../../assets/mututalfunds.svg";
-import Equity from "../../assets/Indian Equity.svg";
-import Deposits from "../../assets/Fixed Deposits.svg";
-import Gold from "../../assets/Digital Gold.svg";
+import Mutual from "../../../assets/mututalfunds.svg";
+import Equity from "../../../assets/Indian Equity.svg";
+import Deposits from "../../../assets/Fixed Deposits.svg";
+import Gold from "../../../assets/Digital Gold.svg";
 
 const Section6 = () => {
   return (

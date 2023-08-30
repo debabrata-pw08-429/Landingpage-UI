@@ -1,7 +1,7 @@
 import "./section2.css";
-import Track from "../../assets/activity-svgrepo.svg";
-import Flexibility from "../../assets/stick-svgrepo-com 1.svg";
-import Easiness from "../../assets/fire-minimalistic-svgrepo-com 1.svg";
+import Track from "../../../assets/activity-svgrepo.svg";
+import Flexibility from "../../../assets/stick-svgrepo-com 1.svg";
+import Easiness from "../../../assets/fire-minimalistic-svgrepo-com 1.svg";
 
 const Section2 = () => {
   return (
